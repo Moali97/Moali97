@@ -7,6 +7,10 @@ I am a self-taught Django developer with 1 years' experience building projects, 
 
 Currently seeking a backend Django developer role.
 
+---
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"  alt="Django" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  alt="" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  alt="HTML" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="CSS" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  alt="Pycharm" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  alt="Git" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="Bootstrap" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  alt="Heroku" width="50" height="50">
+
 
 <!--
 **Moali97/Moali97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
