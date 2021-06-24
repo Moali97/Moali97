@@ -5,7 +5,7 @@
 I am a self-taught Django developer with 1 years' experience building projects, such as a blog, chat-app and a property website, these projects supplemented my knowledge of the fundamentals of Django. 
  
 
-Currently seeking a backend Django developer role.
+Currently seeking a Django developer role.
 
 ---
 
