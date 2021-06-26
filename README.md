@@ -2,7 +2,7 @@
 
 [Portfolio Website](https://syedali-portfolio.herokuapp.com/) | [LinkedIn](https://syedali-portfolio.herokuapp.com/)
 
-I am a self-taught Django developer with 1 years' experience building projects, such as a blog, chat-app and a property website, these projects supplemented my knowledge of the fundamentals of Django. 
+I am a self-taught Django developer with 1 years' experience building projects, such as a blog, chat-app and a property website, these projects supplemented my knowledge of the fundamentals of Django. I hope to learn from developers with more experiece and look forward to taking on bigger projects
  
 
 Currently seeking a Django developer role.
